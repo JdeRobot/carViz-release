@@ -2,7 +2,7 @@
 <package format="3">
   <name>jderobot_carviz</name>
 
-  <version>0.1.4</version>
+  <version>0.1.5</version>
   <description>carViz package </description>
 
   <maintainer email="pankhurivanjani@gmail.com">Your Name</maintainer>
