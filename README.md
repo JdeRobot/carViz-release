@@ -1,3 +1,26 @@
+## jderobot_carviz (melodic) - 0.1.6-1
+
+The packages in the `jderobot_carviz` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic jderobot_carviz --edit` on `Sun, 21 Jun 2020 07:39:44 -0000`
+
+The `jderobot_carviz` package was released.
+
+Version of package(s) in repository `jderobot_carviz`:
+
+- upstream repository: https://github.com/JdeRobot/carViz.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.5-1`
+- new version: `0.1.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.40`
+
+
 ## carViz (melodic) - 0.1.5-1
 
 The packages in the `carViz` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic carViz --edit` on `Thu, 11 Jun 2020 14:29:46 -0000`
